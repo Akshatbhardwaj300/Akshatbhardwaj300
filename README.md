@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akshat Bhardwaj
+- 👋 Hi, I’m **Akshat Bhardwaj**
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Python
 
